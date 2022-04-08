@@ -1,6 +1,5 @@
 import time
 import readers
-import requests
 import logging
 
 logging.basicConfig(filename='Logs/app_timer.log', filemode='w', format='%(name)s - %(levelname)s - %(message)s')
